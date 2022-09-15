@@ -16,3 +16,5 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 
 
 
+
+![Screenshot_20220715-012404](https://user-images.githubusercontent.com/84223505/190396689-d46e13e1-f6b0-4f08-aa27-24e383865a46.jpg)
